@@ -40,12 +40,12 @@ The **Devices** workload gives you insights into the devices you manage, and let
 2. Select **All services**, filter on **Intune**, and select **Microsoft Intune**.
 3. Select **Devices**. This view shows detailed information about the individual devices, and what you can do with them, including:
 
-   - **Overview** shows a visual snapshot of the enrolled devices, and also shows how many devices are using the different platforms, including Android, iOS, and more.
+   - **Overview** shows a visual snapshot of the enrolled devices, and shows how many devices are using the different platforms, including Android, iOS, and more.
    - **All devices** shows a list of the enrolled devices you manage.
 
      Use the **Export** feature to create a .csv list of all the devices, in increments of 10,000 (Internet Explorer) or 30,000 (Edge, Chrome).
 
-     Select any device to [view aditional details about that device](device-inventory.md), including hardware details, installed apps, its compliance policy status, and more.
+     Select any device to [view additional details about that device](device-inventory.md), including hardware details, installed apps, its compliance policy status, and more.
 
    - **Azure AD devices** shows a list of the devices registered or joined with Azure Active Directory (Azure AD). Learn more about [Azure AD device management](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
    - **Device actions** includes a history of the remote actions ran on different devices, including the action, its status, who initiated the action, and the time.
